@@ -6,3 +6,5 @@ Soy Aldo pero con el correo de la UNAM
 Ahora soy Aldo pero probando como si fuera un colaborador de algo open source
 
 Ya va mucho tiempo que,no pasaba así
+
+Sólo para ver si hay porblema con un pull desde mi terminal.
