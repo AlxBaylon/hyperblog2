@@ -56,3 +56,12 @@ body{
     padding-bottom: 0.1em;
 
 }
+
+.imagen-beethoven{
+    height: 15em;
+    text-align: center;
+}
+
+.imagen-beethoven img{
+    height: 15em;
+}
