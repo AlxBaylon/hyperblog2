@@ -12,3 +12,4 @@ Un repositorio de mi blog demo del [**Curso profesional de Git y GitHub**](https
 * Como funciona el flujo de trabajo de un proyecto open source
 * Hacer un .gitignore
 * También aprendimos a hacer un cherry pick
+* --dry-run es un buena herramienta para simular eliminación de arvhivos.
