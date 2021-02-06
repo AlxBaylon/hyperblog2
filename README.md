@@ -11,3 +11,4 @@ Un repositorio de mi blog demo del [**Curso profesional de Git y GitHub**](https
 * Hacer pulls y pushs desde mi cuenta de GitHub
 * Como funciona el flujo de trabajo de un proyecto open source
 * Hacer un .gitignore
+* También aprendimos a hacer un cherry pick
