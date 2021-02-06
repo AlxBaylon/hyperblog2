@@ -13,3 +13,4 @@ Un repositorio de mi blog demo del [**Curso profesional de Git y GitHub**](https
 * Hacer un .gitignore
 * También aprendimos a hacer un cherry pick
 * --dry-run es un buena herramienta para simular eliminación de arvhivos.
+* Stash también es muy útil
